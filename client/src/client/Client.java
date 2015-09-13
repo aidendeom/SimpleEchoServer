@@ -63,7 +63,11 @@ public class Client {
 	}
 	
 	public static void main(String[] args) throws IOException
-	{		
+	{
+	    // Here are some useless comments for the client class.
+	    // Create a new client and try to connect to the server on port provided in class.
+	    // Upon creation, the client will wait for user input and then send it to the server.
+	    // It will then wait for the server to respond, and print that to the console.
 		Client c = null;
 		try {
 			c = new Client();
