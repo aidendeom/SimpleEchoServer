@@ -140,7 +140,7 @@ public class Server {
 	    // Temporary useless comment.
 	    // Starts the server, and listens for connections.
 	    // Upon accepting a connection, the server will start a new thread to handle that connection.
-	    // This is a completely different comment, but it will cause a conflict
+	    // Now this comment will be the fixed version of the merge
 		Server s = null;
 		try
 		{
