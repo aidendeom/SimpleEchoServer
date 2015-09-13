@@ -137,6 +137,9 @@ public class Server {
 	
 	public static void main(String[] args)
 	{
+	    // Temporary useless comment.
+	    // Starts the server, and listens for connections.
+	    // Upon accepting a connection, the server will start a new thread to handle that connection.
 		Server s = null;
 		try
 		{
